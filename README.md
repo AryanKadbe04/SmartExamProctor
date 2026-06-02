@@ -190,6 +190,8 @@ evidence/
 ## 👨‍💻 Author
 
 Aryan Kadbe
+
 Computer Science & Cybersecurity Student
+
 Building AI and cybersecurity projects focused on automation, computer vision, and digital security.
 
