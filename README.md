@@ -187,28 +187,9 @@ evidence/
 
 ---
 
-## 🤝 Contributing
-
-Contributions, feature requests, and improvements are welcome.
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 Aryan Kadbe
-
 Computer Science & Cybersecurity Student
-
 Building AI and cybersecurity projects focused on automation, computer vision, and digital security.
 
